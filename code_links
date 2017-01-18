@@ -2,3 +2,9 @@ rosettacode.org/wiki/Pascal%27s_triangle (implemented pascal triangle for user d
 rosettacode.org/wiki/Middle_three_digits (find a print the middle three number of a number greater than three and odd)
 rosettacode.org/wiki/Phrase_reversals  (string manipulation inverting string, words maintaining string order and reversing string mainting word order)
 rosettacode.org/wiki/Singly-linked_list/Element_definition (defining a class for linked list node/cell)
+
+
+http://rosettacode.org/mw/index.php?title=Caesar_cipher&oldid=241702 (implemented caesar cipher ,both encoding and decoding)
+http://rosettacode.org/mw/index.php?title=Temperature_conversion&oldid=241697 ( basics: interconversion between various temperature scales)
+http://rosettacode.org/mw/index.php?title=Move-to-front_algorithm&oldid=241775 (implementation of a particular algorithm mentioned in the description)
+http://rosettacode.org/mw/index.php?title=Sum_multiples_of_3_and_5&oldid=241788 (program for calculating sum of multiples of 3 or 5 in the fastest way)
